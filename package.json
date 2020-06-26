@@ -1,7 +1,7 @@
 {
-  "name": "test-webpack",
+  "name": "webpack_config",
   "version": "1.0.0",
-  "description": "webpack course",
+  "description": "My webpack config",
   "private": "true",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --mode development",
